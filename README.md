@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img=https://github.com/shyrone312/shyronePart2/blob/master/shyronetweetpart2.gif
+<img=https://github.com/shyrone312/shyronePart2/blob/master/shyronetweetpart2.gif>
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
