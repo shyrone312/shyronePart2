@@ -42,8 +42,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img=https://github.com/shyrone312/shyronePart2/blob/master/shyronetweetpart2.gif
 
-<img src=https:'shyronetweetpart2.gif'>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -118,7 +118,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=https:'//github.com/shyrone312/shyronePart2/blob/master/shyronetweetpart2.gif'>
+<img src=https:'//github.com/shyrone312/shyronePart2/blob/master/shyronetweetpart2.gif' title ='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
