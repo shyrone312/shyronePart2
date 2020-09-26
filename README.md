@@ -118,7 +118,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<https:'//github.com/shyrone312/shyronePart2/blob/master/shyronetweetpart2.gif'>
+https://github.com/shyrone312/shyronePart2/blob/master/shyronetweetpart2.gif
 
 
 
